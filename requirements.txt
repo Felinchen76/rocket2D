@@ -1,2 +1,11 @@
 tensorflow
 keras
+matplotlib
+scikit-learn
+sktime
+numpy
+pandas
+scikit-image
+numba==0.59.1
+llvmlite==0.42.0
+jupyter
